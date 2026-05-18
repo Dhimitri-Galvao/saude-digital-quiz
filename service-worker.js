@@ -1,4 +1,4 @@
-const CACHE_NAME = "saude-digital-v1";
+const CACHE_NAME = "saude-digital-v2";
 
 const FILES_TO_CACHE = [
   "index.html",
