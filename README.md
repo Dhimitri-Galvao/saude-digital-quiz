@@ -8,7 +8,7 @@ Um PWA educativo mobile-first sobre hábitos saudáveis, IMC e saúde digital.
 
 # Sobre o projeto
 
-Este projeto foi criado para uma exposição escolar.
+Este projeto foi criado para a exposição agropecuária de itapetinga - Bahia, 2026.
 
 O app demonstra como a tecnologia pode ajudar as pessoas a acompanhar hábitos saudáveis de forma simples e educativa.
 
